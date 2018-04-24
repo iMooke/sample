@@ -1,4 +1,4 @@
-@extends('layouts.default)
+@extends('layouts.default')
 @section('content')
-    <h1>about</h1>
+    about
 @stop
